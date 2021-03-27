@@ -1,0 +1,31 @@
+.icon{background-color: LimeGreen;}
+
+h2{color: blue;}
+
+.x{color: black;}
+
+.y{border-radius: 10px;
+    border: 1px solid lightblue;}
+
+.z{text-decoration: none;
+    border: 1px solid green;
+    padding: 5px;
+    color: blue;}
+
+.w{text-decoration: 
+
+header{background-color: lightgreen;padding: 8px;}
+
+h1{color: purple;}
+
+body {
+    font-family: sans-serif;
+}
+footer p{background-color: lime;}
+nav{padding: 10px;
+    border: 2px solid darkred;
+    background-color: cadetblue;}
+nav a{margin: 60px;
+    font-size: 20px;
+    text-decoration: none;
+    color: black;}
